@@ -7,7 +7,6 @@
 
 ```
 npm install -g webpack-preload
-
 ```
 
 ### 使用
